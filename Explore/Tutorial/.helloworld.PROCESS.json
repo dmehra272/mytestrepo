@@ -1,0 +1,24 @@
+{
+  "objectInfo" : {
+    "id" : "37dlCssRpy5gLuEs86mCyi",
+    "name" : "helloworld",
+    "type" : "PROCESS",
+    "metadata" : {
+      "modelVersion" : {
+        "major" : 1,
+        "minor" : 0
+      },
+      "repoInfo" : {
+        "repoHandle" : "6TJonEBNjDg8SOl-gt-8027891-2020-02-25T22:33:10.931Z::pd.xml"
+      },
+      "contextAttributes" : null,
+      "additionalInfo" : {
+        "description" : "get and state name",
+        "contentType" : "application/json; charset=utf-8",
+        "documentState" : "VALID"
+      }
+    }
+  },
+  "dataFileExtension" : "xml",
+  "objectRefs" : [ ]
+}
